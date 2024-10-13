@@ -1,1 +1,2 @@
-# data-cork
+# Rust Book
+https://rust-book.cs.brown.edu/
